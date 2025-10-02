@@ -1,7 +1,7 @@
 # TicTacToe-AI-game
 An unbeatable TicTacToe game powered by the Minimax algorithm. Challenge yourself against an AI that never loses!
 
-## Features
+# Features
 
 - Unbeatable AI: Powered by the Minimax algorithm with optimal decision-making
 - Score Tracking: Keeps track of wins, losses, and draws across multiple games
@@ -11,7 +11,7 @@ An unbeatable TicTacToe game powered by the Minimax algorithm. Challenge yoursel
 - Winning Highlights: Winning combinations are highlighted when the game ends
 - Smart Turn Indicator: Shows whose turn it is with clear visual cues
 
- How It Works
+# How It Works
 The AI uses the Minimax algorithm, a recursive decision-making algorithm that:
 
 Explores all possible game states
@@ -19,20 +19,20 @@ Evaluates each outcome (win, lose, draw)
 Chooses the move that maximizes its chances while minimizing yours
 Guarantees optimal play (the AI will never make a mistake)
 
-Algorithm Features
+# Algorithm Features
 
 Alpha-Beta Pruning potential for optimization
 Depth-based scoring for faster wins
 Perfect play guarantee - the AI never loses
 
-🛠️ Technologies Used
+# Technologies Used
 
 React - UI framework
 Lucide React - Beautiful icon library
 Tailwind CSS - Utility-first styling
 JavaScript (ES6+) - Core logic and algorithms
 
-📦 Installation
+# Installation
 Prerequisites
 
 Node.js (v14 or higher)
@@ -52,7 +52,7 @@ bash
 ``
 npm install
 ``
-Or
+or
 ``
 yarn install
 ``
@@ -68,7 +68,7 @@ yarn start
 ``
 Open your browser and navigate to http://localhost:3000
 
-## How to Play
+# How to Play
 
 You play as X (blue) and go first
 The AI plays as O (red)
@@ -78,7 +78,7 @@ The AI will respond with its optimal move
 Challenge: Can you force a draw? (You can't win!)
 
 
-## Contributing
+# Contributing
 Contributions are welcome! Here's how you can help:
 
 Fork the repository
@@ -87,13 +87,13 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-##  Acknowledgments
+#  Acknowledgments
 
 Minimax algorithm concept from game theory
 UI inspiration from modern gaming interfaces
 React community for excellent documentation and support
 
-## Future Enhancements
+# Future Enhancements
 
  Difficulty levels (Easy, Medium, Hard)
  Multiplayer mode (Player vs Player)
@@ -103,5 +103,5 @@ React community for excellent documentation and support
  Leaderboard system
  Different board sizes (4x4, 5x5)
 
-__
+
 ⭐ If you enjoyed this project, please give it a star!
