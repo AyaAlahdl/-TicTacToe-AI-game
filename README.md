@@ -14,23 +14,23 @@ An unbeatable TicTacToe game powered by the Minimax algorithm. Challenge yoursel
 # How It Works
 The AI uses the Minimax algorithm, a recursive decision-making algorithm that:
 
-Explores all possible game states
-Evaluates each outcome (win, lose, draw)
-Chooses the move that maximizes its chances while minimizing yours
-Guarantees optimal play (the AI will never make a mistake)
+- Explores all possible game states
+- Evaluates each outcome (win, lose, draw)
+- Chooses the move that maximizes its chances while minimizing yours
+- Guarantees optimal play (the AI will never make a mistake)
 
 # Algorithm Features
 
-Alpha-Beta Pruning potential for optimization
-Depth-based scoring for faster wins
-Perfect play guarantee - the AI never loses
+- Alpha-Beta Pruning potential for optimization
+- Depth-based scoring for faster wins
+- Perfect play guarantee - the AI never loses
 
 # Technologies Used
 
-React - UI framework
-Lucide React - Beautiful icon library
-Tailwind CSS - Utility-first styling
-JavaScript (ES6+) - Core logic and algorithms
+- React - UI framework
+- Lucide React - Beautiful icon library
+- Tailwind CSS - Utility-first styling
+- JavaScript (ES6+) - Core logic and algorithms
 
 # Installation
 Prerequisites
@@ -43,6 +43,8 @@ Steps
 Clone the repository
 ``
 bashgit clone https://github.com/yourusername/tictactoe-ai.git
+``
+``
 cd tictactoe-ai
 ``
 Install dependencies
@@ -82,26 +84,26 @@ Challenge: Can you force a draw? (You can't win!)
 Contributions are welcome! Here's how you can help:
 
 Fork the repository
-Create a feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+- Create a feature branch ``(git checkout -b feature/AmazingFeature)``
+- Commit your changes ``(git commit -m 'Add some AmazingFeature')``
+- Push to the branch ``(git push origin feature/AmazingFeature)``
+- Open a Pull Request
 
 #  Acknowledgments
 
-Minimax algorithm concept from game theory
-UI inspiration from modern gaming interfaces
-React community for excellent documentation and support
+- Minimax algorithm concept from game theory
+- UI inspiration from modern gaming interfaces
+- React community for excellent documentation and support
 
 # Future Enhancements
 
- Difficulty levels (Easy, Medium, Hard)
- Multiplayer mode (Player vs Player)
- Game history and replay
- Custom themes
- Sound effects
- Leaderboard system
- Different board sizes (4x4, 5x5)
+ - Difficulty levels (Easy, Medium, Hard)
+ - Multiplayer mode (Player vs Player)
+ - Game history and replay
+ - Custom themes
+ - Sound effects
+ - Leaderboard system
+ - Different board sizes (4x4, 5x5)
 
 
 ⭐ If you enjoyed this project, please give it a star!
